@@ -38,7 +38,7 @@ Collated and interpreted intelligence information in order to provide timely inf
 
 ### RightNow Technologies
 
-#### Quality Assurance Intern, 2008 - 2009
+#### Quality Assurance Intern, 2007 - 2008
 
 Manual testing, some minor in-team server administration tasks.
 
